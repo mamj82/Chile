@@ -1,0 +1,16 @@
+#EXTINF:-1, tvg-name="Discovery Real Time HD" group-title="Italy" ,Discovery Real Time HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1, tvg-name="Discovery Nove HD" group-title="Italy" ,Discovery Nove HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1, tvg-name="Discovery Giallo HD" group-title="Italy" ,Discovery Giallo HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1, tvg-name="Discovery Dmax HD" group-title="Italy" ,Discovery Dmax HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+#EXTINF:-1, tvg-name="Discovery HGTV HD" group-title="Italy" ,Discovery HGTV HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
+#EXTINF:-1, tvg-name="Discovery Food Network HD" group-title="Italy" ,Discovery Food Network HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+#EXTINF:-1, tvg-name="Discovery Motor Trend HD" group-title="Italy" ,Discovery Motor Trend HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1, tvg-name="Spike" group-title="Italy" ,Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
